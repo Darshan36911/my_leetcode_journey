@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0060-permutation-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
