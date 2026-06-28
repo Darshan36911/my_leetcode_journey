@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0118-pascals-triangle) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0001-two-sum) |
+| [0118-pascals-triangle](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0118-pascals-triangle) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
