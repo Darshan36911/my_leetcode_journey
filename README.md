@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0118-pascals-triangle) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [3660-jump-game-ix](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3660-jump-game-ix) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0118-pascals-triangle) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3660-jump-game-ix](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3660-jump-game-ix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
