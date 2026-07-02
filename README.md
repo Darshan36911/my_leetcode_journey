@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Darshan36911/my_leetcode_journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3637-trionic-array-i](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3637-trionic-array-i) |
 | [3660-jump-game-ix](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3660-jump-game-ix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
