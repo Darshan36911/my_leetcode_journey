@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0118-pascals-triangle) |
+| [1301-number-of-paths-with-max-score](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3620-network-recovery-pathways](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3660-jump-game-ix) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0118-pascals-triangle) |
+| [1301-number-of-paths-with-max-score](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Darshan36911/my_leetcode_journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Darshan36911/my_leetcode_journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
