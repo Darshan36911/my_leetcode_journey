@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0093-restore-ip-addresses](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0093-restore-ip-addresses) |
 | [0394-decode-string](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0394-decode-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -210,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0077-combinations) |
+| [0093-restore-ip-addresses](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
