@@ -206,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0394-decode-string) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
