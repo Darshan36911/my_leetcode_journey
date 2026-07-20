@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0093-restore-ip-addresses) |
 | [0394-decode-string](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0394-decode-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -212,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0093-restore-ip-addresses) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 <!---LeetCode Topics End-->
