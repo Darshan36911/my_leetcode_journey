@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0118-pascals-triangle) |
 | [1301-number-of-paths-with-max-score](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0118-pascals-triangle) |
 | [1260-shift-2d-grid](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1288-remove-covered-intervals) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0042-trapping-rain-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
@@ -216,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0093-restore-ip-addresses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
