@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0060-permutation-sequence) |
 | [0394-decode-string](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0118-pascals-triangle) |
+| [0486-predict-the-winner](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0118-pascals-triangle) |
+| [0486-predict-the-winner](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1288-remove-covered-intervals) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0060-permutation-sequence) |
+| [0486-predict-the-winner](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -248,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
