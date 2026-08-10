@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1510-stone-game-iv) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1510-stone-game-iv) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -269,12 +271,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
