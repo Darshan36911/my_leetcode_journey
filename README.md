@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0394-decode-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1927-sum-game](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1563-stone-game-v) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [1927-sum-game](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1927-sum-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Darshan36911/my_leetcode_journey/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
