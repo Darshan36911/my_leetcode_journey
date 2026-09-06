@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1301-number-of-paths-with-max-score) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0093-restore-ip-addresses](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0115-distinct-subsequences) |
 | [0394-decode-string](https://github.com/Darshan36911/my_leetcode_journey/tree/master/0394-decode-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Darshan36911/my_leetcode_journey/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
